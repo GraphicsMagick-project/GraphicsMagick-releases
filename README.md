@@ -1,3 +1,8 @@
+# Mirror to download GraphicsMagick releases
+
+https://graphicsmagick-project.github.io/GraphicsMagick-releases/
+
+
 ## Special Issues:
 
 - The FTP site ftp.graphicsmagick.org is now shut down due to a lack of bandwith,
