@@ -1,4 +1,4 @@
-# Mirror to download GraphicsMagick releases
+# Mirror to download [GraphicsMagick](http://www.graphicsmagick.org/) releases
 
 https://graphicsmagick-project.github.io/GraphicsMagick-releases/
 
